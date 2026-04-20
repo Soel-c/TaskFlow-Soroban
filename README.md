@@ -40,7 +40,7 @@ Our vision is to empower individuals with decentralized productivity tools by:
 
 ## Contract Details
 
-- **Contract ID**: `CBLU4IUASQ4WUMOXBFLZRSBBLILGOH33GS4LUPKFBCCCMJCDQNMF7G2M`
+- **Contract ID**: `CANLIO5VXZM4VO3KUP3Q3GPJXKQ5KQBGKCN5X6PL6TVZCPGRB4EOVYHB`
 - **Network**: Stellar Testnet
 
 ## Technical Requirements
