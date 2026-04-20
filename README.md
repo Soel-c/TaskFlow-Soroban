@@ -22,7 +22,7 @@ Membangun ekosistem produktivitas yang berdaulat, di mana pengguna memiliki kont
 * **Secure Execution**: Logika aplikasi dijalankan secara otomatis oleh Soroban tanpa perantara manusia.
 
 ## 🛠️ Informasi Teknis & Deployment
-* **Smart Contract ID**: `[MASUKKAN_ID_CONTRACT_ANDA_DI_SINI]`
+* **Smart Contract ID**: `CANLIO5VXZM4VO3KUP3Q3GPJXKQ5KQBGKCN5X6PL6TVZCPGRB4EOVYHB`
 * **Network**: Stellar Testnet
 * **Language**: Rust (Smart Contract) & Soroban SDK
 * **Tools**: Stellar CLI, Freighter Wallet, Soroban Studio
